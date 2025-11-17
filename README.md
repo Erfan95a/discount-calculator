@@ -1,4 +1,4 @@
-# 💸 Discount Calculator – React Native App (iOS)
+# 💸Fast Discount Calculator – A React Native App (iOS)
 
 A minimal and fast discount calculator built with **React Native** and **Expo** — perfect for quick shopping decisions, both in-store and online.
 
